@@ -40,7 +40,6 @@
     + 登录梯子，点击以下链接注册：
 [https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com&hl=zh-CN&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp ](https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com&hl=zh-CN&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp )
 
-+ Hotmail邮箱的注册，自行百度即可。
 
 
 <br />
