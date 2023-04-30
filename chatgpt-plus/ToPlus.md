@@ -47,7 +47,7 @@
 
 **1、快速注册**
 
-> 安全说明：Depay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产收到离线保护。
+> 安全性：Depay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产受到离线保护。
 
 + 注册Depay：
 [https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
@@ -138,7 +138,7 @@
 
 <br />
 ### 附录：
- + ChatGPT星球专栏:  
+ + `ChatGPT星球专栏:  `
 	+ 10年前iPhone 4的发布掀起了移动互联网浪潮，而今天的ChatGPT则是大语言模型计算时代的iPhone 4时刻。
 	+ ChatGPT将颠覆现有的生产工具，我们都身处这场变局之中，在大部分人还在怀疑、看不懂、没醒过来的时候正是你的机会。
 	+ 率先拥抱ChatGPT是普通人能够抓住的先发优势，理解这个变局时代，利用这个强大工具来打造你自己的生产要素。
