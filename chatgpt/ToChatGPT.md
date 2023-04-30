@@ -45,7 +45,7 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 
 + 体验ChatGPT
 	+ 科学上网，登录 [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login) 即可
-    
+
 
 + ChatGPT的版本与功能说明
 	+ GPT免费版：
@@ -62,8 +62,9 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 
 <br />
 ### 第四步：常见问题
-+ 遇到“Not available, OpenAI‘s service are not available in your country”问题，则是IP问题，指向欧洲/日本等即可。
++ 遇到“Not available, OpenAI‘s service are not available in your country”问题，则是IP问题，指向美国/欧洲/新加坡/日本等即可。
 + 经常需要人机确认，或者网络响应慢，这是正常的。
++ 在与ChatGPT对话过程中，弹出红色错误，也是正常的，刷新网页即可。
 
 
 
