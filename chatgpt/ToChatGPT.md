@@ -12,7 +12,7 @@
 
 + 套餐选择
     + 登录后如图，根据自己使用频率和流量选择一个套餐即可（推荐最便宜的，试用满意可再选价格高的套餐），再按照左边菜单中的“使用文档”操作即可。
-![订阅](./duangcloud.png)
+    ![duangcloud](./duangcloud.png)
 
 
 <br />
@@ -46,8 +46,10 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 
 + 体验ChatGPT
 	+ 科学上网，登录 [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login) 即可
+    ![ChatGPT体验](./gpt-tiyan.png)
 
 
+<br />
 + ChatGPT的版本与功能说明
 	+ `GPT免费版： `
 		+ 免费版默认的模型是基于text-davinci-002-render-sha架构训练的，这是GPT-3.5版本中的一个重要架构之一。该架构包含了许多改进和优化，可以提供更高的精度和更先进的功能。
