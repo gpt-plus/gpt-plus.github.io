@@ -16,7 +16,6 @@
 >
 >+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️
 
-[========]
 
 
 
@@ -56,7 +55,10 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 
 + 关键的一步是国际短信验证码，建议选择美国地区。
 	+ 一般，直接在验码平台处理[https://sms-activate.org/](https://sms-activate.org/)，费用1美元即可，但有小小的操作难度。
-
+    + 通过搜索“OpenAI”，获取相关服务。
+    ![sms激活](./sms-active.png)
+    + 下面是购买“美国区”的短信服务，可以复制号码到ChatGPT短信验证页，按发送后即可到“sms-activate”平台收取短信。
+    ![激活短信收取](./sms-send.png)
 
 
 <br />
