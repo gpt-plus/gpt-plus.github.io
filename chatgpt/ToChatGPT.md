@@ -8,6 +8,7 @@
 
 + 梯子推荐
     + 关于梯子有很多，推荐一个性价比高的DuangCloud。点击链接：[https://portal.dc-site5.com/#/register?code=4UF1Ymbn](https://portal.dc-site5.com/#/register?code=4UF1Ymbn)，2分钟完成注册。
+    + 推荐原因：有专属的ChatGPT线路。
 
 + 套餐选择
     + 登录后如图，根据自己使用频率和流量选择一个套餐即可（推荐最便宜的，试用满意可再选价格高的套餐），再按照左边菜单中的“使用文档”操作即可。
