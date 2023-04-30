@@ -1,5 +1,5 @@
 # ChatGPT新手教程
 
-* [注册ChatGPT](chatgpt/ToChatGPT.md)
-* [升级Plus](chatgpt-plus/ToPlus.md)
+* [Easy注册ChatGPT](chatgpt/ToChatGPT.md)
+* [升级ChatGPT Plus](chatgpt-plus/ToPlus.md)
 
