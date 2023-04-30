@@ -3,6 +3,24 @@
 
 
 <br />
+
+>+ 推荐注册「国际虚拟信用卡Depay」：[https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
+>
+>+ 安全性：Depay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产受到离线保护。
+>
+>+ 用途说明：
+	+ ❶ 升级Plus扣款。
+	+ ❷ 绑定非大陆AppleID用美刀消费。
+	+ ❸ 支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等。
+	+ ❹ 支持Stripe商户、Google Play商店、YouTube Premium、Paypal商户、美区苹果商店、和支持非3DS卡的电商网站。
+>
+>+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️
+
+[========]
+
+
+
+<br />
 ### 准备梯子(科学上网)
 > 注意：如果自己已有梯子则略过。
 
