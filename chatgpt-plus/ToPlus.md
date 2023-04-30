@@ -54,6 +54,8 @@
 + 安卓端：直接从Google Play商店下载 
 	+ ![下载APP](./depay-app.png)
 
+
+<br />
 + 苹果端：
 	+ 国内Apple ID，需要通过TestFlight来安装Depay APP。
 ![testFlight下载Depay](./testFlight-depay.png)
@@ -73,9 +75,13 @@
 <br />
 **4、Depay开卡、兑换USD和账户充值**
 + 开卡有两种方式，需要KYC的则开卡费，不需要KYC的需要10USDT。
-+ USDT兑换USD时也是需要费用1USD。
-+ 兑换后，直接充值到信用卡账户中（可以选择你想充多少钱进卡里，Plus是20USD/月） 
 ![开卡](./kaika.png)
+
+<br />
++ USDT兑换USD时也是需要费用1USD。
+
+<br />
++ 兑换后，直接充值到信用卡账户中（可以选择你想充多少钱进卡里，Plus是20USD/月） 
 ![兑换](./duihuan.png)
 
 
