@@ -50,7 +50,7 @@
 
 
 <br />
-### 第二步：科学上网指向欧洲IP，注册OpenAI账号
+### 第二步：科学上网，注册OpenAI账号
 
 + 把梯子的线路指向美国、欧洲、日本、新加坡等IP（建议美国原生IP）
 OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https://chat.openai.com/auth/login?next=%2F)
