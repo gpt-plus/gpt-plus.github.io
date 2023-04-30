@@ -16,6 +16,7 @@
 >
 >+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️
 
+`快速跳转到「Plus升级页」： ` [https://gpt-plus.github.io/chatgpt-plus/ToPlus.html](https://gpt-plus.github.io/chatgpt-plus/ToPlus.html)
 
 
 

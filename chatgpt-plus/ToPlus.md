@@ -3,6 +3,11 @@
 
 
 <br />
+`快速跳转到「ChatGPT注册页」： ` [https://gpt-plus.github.io/chatgpt/ToChatGPT.html](https://gpt-plus.github.io/chatgpt/ToChatGPT.html)
+
+
+
+<br />
 ### 前提条件
 
 >a. 有ChatGPT账号，体验过免费版。如果没有，请按“[Easy注册ChatGPT账号](https://gpt-plus.github.io/chatgpt/ToChatGPT.html)”文档先申请账号。实在找不到梯子的，推荐一个性价比高的DuangCloud，点击链接：[https://portal.dc-site5.com/#/register?code=4UF1Ymbn](https://portal.dc-site5.com/#/register?code=4UF1Ymbn)，2分钟完成注册。
