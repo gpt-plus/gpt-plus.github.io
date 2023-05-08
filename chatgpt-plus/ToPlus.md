@@ -1,6 +1,6 @@
 ## 升级ChatGPT Plus（官方推荐）
 
-
+`🚀 文末有惊喜🍺  `
 
 <br />
 `快速跳转到「ChatGPT注册页」： ` [https://gpt-plus.github.io/chatgpt/ToChatGPT.html](https://gpt-plus.github.io/chatgpt/ToChatGPT.html)
