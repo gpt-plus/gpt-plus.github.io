@@ -14,7 +14,7 @@
 	+ ❸ 支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等。
 	+ ❹ 支持Stripe商户、Google Play商店、YouTube Premium、Paypal商户、美区苹果商店、和支持非3DS卡的电商网站。
 >
->+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️
+>+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️【特别提示：Depay官方在合规问题处理中，卡片暂停开卡、充值等操作，现不推荐注册，等待官方恢复通知】
 
 `快速跳转到「Plus升级页」： ` [https://gpt-plus.github.io/chatgpt-plus/ToPlus.html](https://gpt-plus.github.io/chatgpt-plus/ToPlus.html)
 
