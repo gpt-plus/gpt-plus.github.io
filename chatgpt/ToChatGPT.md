@@ -4,17 +4,6 @@
 
 <br />
 
->+ 推荐注册「国际虚拟信用卡Depay」：[https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
->
->+ 安全性：Depay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产受到离线保护。
->
->+ 用途说明：
-	+ ❶ 升级Plus扣款。
-	+ ❷ 绑定非大陆AppleID用美刀消费。
-	+ ❸ 支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等。
-	+ ❹ 支持Stripe商户、Google Play商店、YouTube Premium、Paypal商户、美区苹果商店、和支持非3DS卡的电商网站。
->
->+ 推荐指数：⭐️⭐️⭐️⭐️⭐️⭐️【特别提示：Depay官方在合规问题处理中，卡片暂停开卡、充值等操作，现不推荐注册，等待官方恢复通知-- 2023.5】
 
 `快速跳转到「Plus升级页」： ` [https://gpt-plus.github.io/chatgpt-plus/ToPlus.html](https://gpt-plus.github.io/chatgpt-plus/ToPlus.html)
 
@@ -91,17 +80,3 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 + 经常需要人机确认，或者网络响应慢，这是正常的。
 + 在与ChatGPT对话过程中，弹出红色错误，也是正常的，刷新网页即可。
 
-
-
-
-<br />
-
-## 附录：
- + 🔥AI生产力探索星球:
-	+ `10年前iPhone 4的发布掀起了移动互联网浪潮，而今天的ChatGPT则是大语言模型计算时代的iPhone 4时刻。  `
-	+ `ChatGPT将颠覆现有的生产工具，我们都身处这场变局之中，在大部分人还在怀疑、看不懂、没醒过来的时候正是你的机会。  `
-	+ `率先拥抱ChatGPT是普通人能够抓住的先发优势，理解这个变局时代，利用这个强大工具来打造你自己的生产要素。  `
-	+ `领先他人一步，就在一念间，你要做的就是拿起ChatGPT这把屠龙刀，发挥它的优势、激活它的价值。 物竞天择，适者生存，变局时代，唯有主动自我进化。  `
-	+ `🚀 限时免费，邀请你加入 AI生产力探索 星球，一起交流、分享和链接。  `
-	+ `🚀 有兴趣加入，请添加星球运营微信  `
-	![个人微信](./../WechatXQ.png)
