@@ -1,12 +1,8 @@
 # Easy注册ChatGPT账号
 
-`🚀 文末有惊喜🍺  `
-
-<br />
-
+`🚀 「Plus升级页」有惊喜🍺  `
 
 `快速跳转到「Plus升级页」： ` [https://gpt-plus.github.io/chatgpt-plus/ToPlus.html](https://gpt-plus.github.io/chatgpt-plus/ToPlus.html)
-
 
 
 <br />

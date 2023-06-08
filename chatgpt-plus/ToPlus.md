@@ -6,7 +6,6 @@
 `快速跳转到「ChatGPT注册页」： ` [https://gpt-plus.github.io/chatgpt/ToChatGPT.html](https://gpt-plus.github.io/chatgpt/ToChatGPT.html)
 
 
-
 <br />
 ### 前提条件
 
@@ -19,8 +18,11 @@
 ## 【一】新升级流程
 
 > 1、如果你是iPhone手机用户，注册美区AppleID，注意注册时填无支付方式。
+>
 > 2、用美区AppleID登录App Store，会提示你验证账单信息，填地址生成器（本文档有提供）生成的美国地址即可（建议用免税州），然后下载ChatGPT APP。
+>
 > 3、给美区AppleID用礼品卡充值，会用到支付宝，具体可以百度。
+>
 > 4、充值到账后，登录ChatGPT直接升级Plus，会直接用AppleID余额扣款。
 
 
