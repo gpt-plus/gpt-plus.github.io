@@ -1,6 +1,6 @@
 # Easy注册ChatGPT账号
 
-`🚀 「Plus升级页」有惊喜🍺  `
+`🚀 文末有惊喜🍺  `
 
 `快速跳转到「Plus升级页」： ` [https://gpt-plus.github.io/chatgpt-plus/ToPlus.html](https://gpt-plus.github.io/chatgpt-plus/ToPlus.html)
 
@@ -76,3 +76,12 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 + 经常需要人机确认，或者网络响应慢，这是正常的。
 + 在与ChatGPT对话过程中，弹出红色错误，也是正常的，刷新网页即可。
 
+
+<br />
+
+## 附录：
+ + 🔥AI生产力·探索与交流 知识星球:
+	+ `10年前iPhone 4的发布掀起了移动互联网浪潮，而今天的ChatGPT则是大语言模型计算时代的iPhone 4时刻。  `
+	+ `ChatGPT掀起的AI浪潮，将颠覆现有的生产工具，我们都身处这场变局之中，去理解变局，利用强大AI工具来打造自己的生产要素。  `
+	+ `🚀 目前本知识星球限时免费，邀请你加入，一起交流、分享和链接。  `
+	![星球二维码](./../AI_jiaoliu.png)
