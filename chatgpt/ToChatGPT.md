@@ -84,4 +84,4 @@ OpenAI官方注册链接：[https://chat.openai.com/auth/login?next=%2F](https:/
 	+ `10年前iPhone 4的发布掀起了移动互联网浪潮，而今天的ChatGPT则是大语言模型计算时代的iPhone 4时刻。  `
 	+ `ChatGPT掀起的AI浪潮，将颠覆现有的生产工具，我们都身处这场变局之中，去理解变局，利用强大AI工具来打造自己的生产要素。  `
 	+ `🚀 目前知识星球限时免费，邀请你加入，一起交流、分享和链接。  `
-	![星球二维码](./../AI_jiaoliu.png)
+	![星球二维码](./../AI_ZSXQ.png)
