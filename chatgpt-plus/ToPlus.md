@@ -15,7 +15,7 @@
 
 
 <br />
-## 【一】新升级流程
+## 【一】新升级流程（简单）
 
 > 1、如果你是iPhone手机用户，注册美区AppleID，注意注册时填无支付方式（具体可看视频: https://www.youtube.com/watch?app=desktop&v=L3TpmMwSp84）。
 >
@@ -27,15 +27,15 @@
 
 
 <br />
-## 【二】旧升级流程
+## 【二】旧升级流程（复杂）
 
 <br />
 ### 流程
 
-+ 注意：国内Visa卡无法完成ChatGPT扣款，建议用虚拟信用卡Depay
++ 注意：国内Visa卡无法完成ChatGPT扣款，建议用虚拟信用卡Dupay
 
 + 流程：
-`(准备好数字货币USDT) > (申请Depay信用卡) > (充值USDT, 兑换USD充值, 到Depay账户) > (付款购买ChatGPT Plus会员)`
+`(准备好数字货币USDT) > (申请Dupay信用卡) > (充值USDT, 兑换USD充值, 到Dupay账户) > (付款购买ChatGPT Plus会员)`
 
 
 <br />
@@ -59,20 +59,20 @@
 
 <br />
 **2、找靠谱的代充服务**
-注册交易所账户和转账的过程会有些门槛，如果嫌麻烦可以找代充服务，让别人把U打到你的Depay钱包USDT地址，至于怎么找，自己想办法。
+注册交易所账户和转账的过程会有些门槛，如果嫌麻烦可以找代充服务，让别人把U打到你的Dupay钱包USDT地址，至于怎么找，自己想办法。
 
 
 <br />
-### 第二步：申请Depay虚拟信用卡&兑换充值
+### 第二步：申请Dupay虚拟信用卡&兑换充值
 
-> 【特别提示：Depay官方在合规问题处理中，卡片暂停开卡、充值等操作，现不推荐注册，等待官方恢复通知 -- 2023.5】
+> 【特别提示：Dupay卡每个月的管理费为2刀】
 
 **1、快速注册**
 
-> 安全性：Depay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Depay采用了多重签名冷钱包技术，资产受到离线保护。
+> 安全性：Dupay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Dupay采用了多重签名冷钱包技术，资产受到离线保护。
 
-+ 注册Depay：
-[https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://depay.depay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
++ 注册Dupay：
+[https://Dupay.Dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://Dupay.Dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
 
 + 用途说明：
 	+ ❶ 升级Plus扣款。
@@ -86,28 +86,28 @@
 <br />
 **2、下载APP**
 + 安卓端：直接从Google Play商店下载 
-	+ ![下载APP](./depay-app.png)
+	+ ![下载APP](./Dupay-app.png)
 
 
 <br />
 + 苹果端：
-	+ 国内Apple ID，需要通过TestFlight来安装Depay APP。
-![testFlight下载Depay](./testFlight-depay.png)
+	+ 国内Apple ID，需要通过TestFlight来安装Dupay APP。
+![testFlight下载Dupay](./testFlight-Dupay.png)
 
-	+ 非大陆的Apple ID，在App Store搜索“Depay”。 
-![AppleID下载Depay](./gla-depay.png)
+	+ 非大陆的Apple ID，在App Store搜索“Dupay”。 
+![AppleID下载Dupay](./gla-Dupay.png)
 
 
 <br />
-**3、向Depay钱包的USDT地址充值**
-+ 区块链网络选择，这里选择TRC20。从欧易交易所提币也选择TRC20网络，其中欧易交易所手续费1U，如图五36U 已经到Depay账户中。
+**3、向Dupay钱包的USDT地址充值**
++ 区块链网络选择，这里选择TRC20。从欧易交易所提币也选择TRC20网络，其中欧易交易所手续费1U，如图五36U 已经到Dupay账户中。
 
 + 另外，如果是找其它人代充的话，需要把下图四中的地址或者二维码给对方，确认好是自己的地址，再让对方充值。
-![Depay充值](./depay-chongzhi.png)
+![Dupay充值](./Dupay-chongzhi.png)
 
 
 <br />
-**4、Depay开卡、兑换USD和账户充值**
+**4、Dupay开卡、兑换USD和账户充值**
 + 开卡有两种方式，需要KYC的则开卡费，不需要KYC的需要10USDT。
 ![开卡](./kaika.png)
 
@@ -119,7 +119,7 @@
 
 <br />
 
-### 第三步：用Depay购买ChatGPT Plus 会员
+### 第三步：用Dupay购买ChatGPT Plus 会员
 
 **1、在ChatGPT页面，点击“Upgrade to Plus”跳转到升级页**
 + 点击菜单
@@ -131,7 +131,7 @@
 
 <br />
 **2、填写付款信息和地址**
-+ 按Depay信用卡信息填写，CVV码需要点击页面才显示（有朋友反馈随意填也可）
++ 按Dupay信用卡信息填写，CVV码需要点击页面才显示（有朋友反馈随意填也可）
 + 美国地址用生成器[https://www.meiguodizhi.com](https://www.meiguodizhi.com) 或者 用uszcn.com 这类方式解决。
 + 梯子必须是全局代理（有朋友反馈用台湾代理也成功）
 + 如果出现卡被拒绝，尝试换代理节点，浏览器（建议Chrome）用隐私模式重新登录 ChatGPT再付款。 
