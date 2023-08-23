@@ -27,7 +27,7 @@
 
 
 <br />
-## 【二】旧升级流程（复杂）
+## 【二】旧升级流程（多用途）
 
 <br />
 ### 流程
@@ -72,7 +72,8 @@
 > 安全性：Dupay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Dupay采用了多重签名冷钱包技术，资产受到离线保护。
 
 + 注册Dupay：
-[https://Dupay.Dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://Dupay.Dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
+[https://dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
+
 
 + 用途说明：
 	+ ❶ 升级Plus扣款。
@@ -162,7 +163,7 @@
 <br />
 
 ## 附录：
- + 🔥 加入“「AI生产力」探索圈”知识星球:
-	+ `关于『AI生产力』的探索圈子，期待在这里相遇的伙伴多交流、分享和链接，更期待碰撞出成长或商业的火花。  `
+ + 🔥 加入 “AI的效率与商业「探索圈」” 知识星球:
+	+ `本免费星球，是关于『AI的效率与商业』的交流探索圈子，期待与更多的伙伴交流、分享和链接。  `
 	+ `🚀 当前知识星球「限时免费」，邀请你加入。  `
-	![星球二维码](./../WechatXQ.png)
+	![星球二维码](./../AI_X_Free.png)
