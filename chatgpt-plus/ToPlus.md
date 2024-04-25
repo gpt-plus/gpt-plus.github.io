@@ -1,6 +1,6 @@
 ## 升级ChatGPT Plus（官方推荐）
 
-`🚀 声明：请遵守相关法律法规，不作恶🍺  `
+`🚀 声明：请遵守相关法律法规 `
 
 <br />
 `快速跳转到「ChatGPT注册页」： ` [https://gpt-plus.github.io/chatgpt/ToChatGPT.html](https://gpt-plus.github.io/chatgpt/ToChatGPT.html)
