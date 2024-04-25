@@ -72,7 +72,7 @@
 > 安全性：Dupay持有美国MSB牌照，并接受Fincen(金融犯罪执法局)的合规监管。Dupay采用了多重签名冷钱包技术，资产受到离线保护。
 
 + 注册Dupay：
-[https://dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn) 
+[https://dupay.one/web-app/register-h5?invitCode=107919&lang=zh-cn](https://dupay.one/web-app/register-h5?invitCode=144506&lang=zh-cn) 
 
 
 + 用途说明：
